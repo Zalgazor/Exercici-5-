@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9FNVNkNtLyYCBKQUErTXnWm5+TYPbURR/TTPhu746EJL/ZZb2DjqLSxIEH5IULLM+UuG+2uYEger9NVqrCg4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlexS\\Desktop\\3r trimestre\\Programació II\\Tasques a entregar\\Exercici 5\\practica2_solucion\\solved\\SFML_TCengine\\SFML_TCengine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexS\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\AlexS\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\AlexS\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\AlexS\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\AlexS\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\AlexS\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
