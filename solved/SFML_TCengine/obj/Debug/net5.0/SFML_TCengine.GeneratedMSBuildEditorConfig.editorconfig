@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SFML_TCengine
-build_property.ProjectDir = C:\Users\AlexS\Desktop\3r trimestre\Programació II\Tasques a entregar\Exercici 5\practica2_solucion\solved\SFML_TCengine\
+build_property.ProjectDir = C:\Users\AlexS\Source\Repos\Exercici-5-\solved\SFML_TCengine\
