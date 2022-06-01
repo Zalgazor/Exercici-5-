@@ -28,6 +28,7 @@ namespace TCGame
             spriteComponent.m_RenderLayer = RenderComponent.ERenderLayer.Background;
 
             TecnoCampusEngine.Get.Scene.CreateActor(backgroundActor);
+
         }
 
     }
