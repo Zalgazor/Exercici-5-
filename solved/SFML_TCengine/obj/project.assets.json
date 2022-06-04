@@ -444,24 +444,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Guillem\\.nuget\\packages\\": {}
+    "C:\\Users\\AlexS\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guillem\\Desktop\\UNI\\Programació II\\Ejercicio5\\solved\\SFML_TCengine\\SFML_TCengine.csproj",
+      "projectUniqueName": "C:\\Users\\AlexS\\Source\\Repos\\Exercici-5-\\solved\\SFML_TCengine\\SFML_TCengine.csproj",
       "projectName": "SFML_TCengine",
-      "projectPath": "C:\\Users\\Guillem\\Desktop\\UNI\\Programació II\\Ejercicio5\\solved\\SFML_TCengine\\SFML_TCengine.csproj",
-      "packagesPath": "C:\\Users\\Guillem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guillem\\Desktop\\UNI\\Programació II\\Ejercicio5\\solved\\SFML_TCengine\\obj\\",
+      "projectPath": "C:\\Users\\AlexS\\Source\\Repos\\Exercici-5-\\solved\\SFML_TCengine\\SFML_TCengine.csproj",
+      "packagesPath": "C:\\Users\\AlexS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AlexS\\Source\\Repos\\Exercici-5-\\solved\\SFML_TCengine\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Guillem\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\AlexS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -500,7 +507,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
