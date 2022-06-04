@@ -13,8 +13,8 @@ namespace TCEngine
         //
         // Members
         //  
-        public const uint WINDOW_WIDTH = 1000;
-        public const uint WINDOW_HEIGHT = 1200;
+        public const uint WINDOW_WIDTH = 1194;
+        public const uint WINDOW_HEIGHT = 825;
 
         private const byte FRAME_RATE = 60;
         private const float FIXED_DELTA_TIME = 1.0f / FRAME_RATE;
