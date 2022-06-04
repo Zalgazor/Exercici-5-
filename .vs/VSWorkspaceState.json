@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\solved",
+    "\\solved\\SFML_TCengine",
+    "\\solved\\SFML_TCengine\\Source",
+    "\\solved\\SFML_TCengine\\Source\\Engine"
   ],
-  "SelectedNode": "\\SFML_TCengine.sln",
+  "SelectedNode": "\\solved\\SFML_TCengine\\Source\\Engine\\Engine.cs",
   "PreviewInSolutionExplorer": false
 }
